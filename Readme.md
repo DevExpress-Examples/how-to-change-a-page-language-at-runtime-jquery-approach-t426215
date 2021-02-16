@@ -1,7 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
-
-<!-- default file list end -->
 # How to change a page language at runtime (jQuery approach)
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t426215/)**
