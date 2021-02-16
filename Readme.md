@@ -1,11 +1,9 @@
-# How to change a page language at runtime (jQuery approach)
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t426215/)**
-<!-- run online end -->
+# (Obsolete) How to change a page language at runtime (jQuery approach)
 
+This example is now obsolete. You can find an actual example in our technical demos:
 
-This example demonstrates how to localize a web page that uses DevExtreme widgets and allows you to change the current language at runtime. We use LocalStore to save/restore the selected language between web site re-execution.<br><br><strong>See also:</strong><br><a href="https://www.devexpress.com/Support/Center/p/T406148">T406148: How to localize DevExtreme widgets using Globalize 1.X when the jQuery approach is used</a>
-
-<br/>
-
-
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Localization/UsingIntl/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Localization/UsingIntl/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Localization/UsingIntl/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Localization/UsingIntl/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Localization/UsingIntl/jQuery/Light/)<br/>
